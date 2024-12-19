@@ -18,6 +18,7 @@
 0.0.0.0 m.doubleclick.net
 0.0.0.0 static.doubleclick.net
 0.0.0.0 mediavisor.doubleclick.net
+0.0.0.0 doubleclick.net
 
 0.0.0.0 ads30.adcolony.com
 0.0.0.0 adc3-launch.adcolony.com
@@ -77,6 +78,7 @@
 
 0.0.0.0 pixel.facebook.com
 0.0.0.0 an.facebook.com
+0.0.0.0 ads.facebook.com
 
 0.0.0.0 static.ads-twitter.com
 0.0.0.0 ads-api.twitter.com
@@ -187,8 +189,9 @@
 0.0.0.0 samsung-com.112.2o7.net
 0.0.0.0 analytics-api.samsunghealthcn.com
 0.0.0.0 business.samsungusa.com
-
-
+0.0.0.0 ad.samsungadhub.com
+0.0.0.0 samsungadhub.com
+0.0.0.0 config.samsungads.com
 
 
 
